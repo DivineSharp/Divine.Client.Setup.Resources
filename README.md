@@ -1,1 +1,1 @@
-# Divine.Client.Setup.Resources
+# Divine.Required
